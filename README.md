@@ -1,5 +1,9 @@
-# 💫 About Me:
-________________________________________<br>I’m a software engineer with a strong command of modern JavaScript frameworks, dedicated to building scalable, user-centered web platforms. My foundation comes from a rigorous Software Engineering program at Wachemo University, where I focused on systems design, data structures, and full-stack development skills I’ve carried directly into real production work.<br>My project experience isn’t academic it’s end-to-end ownership. I’ve designed and implemented front-end architectures in Nuxt.js and React, built secure authentication flows, and developed RESTful APIs in Laravel and Node.js. Projects like MaidFinder and ReUniteus demonstrate my ability to translate requirements into working systems, optimize performance, and collaborate effectively within Agile teams. I’ve also pushed for code quality and maintainability, implementing reusable components, clean state management patterns, and efficient database interactions.<br>I operate with a builder’s mindset: understand the problem, architect the solution, then deliver with clarity and precision. Continual improvement drives my work—whether refining user experience, enhancing system performance, or expanding my technical range. I’m looking to contribute this discipline, range, and ownership mentality to a team tackling meaningful challenges at scale.<br>________________________________________<br><br>
+# Hi 👋, I'm manuhe:
+________________________________________<br>Full-stack Software Engineer specializing in modern JavaScript ecosystems with hands-on experience delivering
+ real-world, user-facing platforms. Strong track record of taking products from concept to deployment handling
+ architecture design, front-end engineering, API development, authentication flows, and database modeling. Known
+ for clean execution, fast learning, and owning complete features end-to-end. Seeking opportunities to contribute to an
+ engineering team building scalable, impactful applications<br>________________________________________<br><br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MrNobody806&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
