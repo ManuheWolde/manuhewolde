@@ -1,10 +1,14 @@
 # Hi,👋 Manuhe Wolde
-Full-Stack Software Engineer** specializing in modern JavaScript ecosystems
+Full-Stack Software Engineer specializing in modern JavaScript ecosystems
 
 ---
 
 ## 👨‍💻 Professional Summary
-Experienced Full-Stack Software Engineer with a proven track record of delivering production-ready, user-facing platforms. Skilled in taking products from concept to deployment with expertise in architecture design, front-end engineering, API development, authentication flows, and database modeling. Known for clean code execution, rapid learning, and end-to-end feature ownership. Seeking to contribute to engineering teams building scalable, impactful applications.
+ Full-stack Software Engineer specializing in modern JavaScript ecosystems with hands-on experience delivering
+ real-world, user-facing platforms. Strong track record of taking products from concept to deployment handling
+ architecture design, front-end engineering, API development, authentication flows, and database modeling. Known
+ for clean execution, fast learning, and owning complete features end-to-end. Seeking opportunities to contribute to an
+ engineering team building scalable, impactful applications.
 
 ---
 
@@ -12,9 +16,9 @@ Experienced Full-Stack Software Engineer with a proven track record of deliverin
 
 | | |
 | :--- | :--- |
-| Overall Stats| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrNobody806&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide_title=true) |
-| Streak | ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=MrNobody806&theme=darcula&hide_border=false&currStreakLabel=4DABF7&ring=4DABF7&fire=4DABF7) |
-| Top Languages | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrNobody806&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&hide_title=true) |
+| Overall Stats| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManuheWolde&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide_title=true) |
+| Streak | ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ManuheWolde&theme=darcula&hide_border=false&currStreakLabel=4DABF7&ring=4DABF7&fire=4DABF7) |
+| Top Languages | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuheWolde&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&hide_title=true) |
 
 ---
 
@@ -65,12 +69,12 @@ Experienced Full-Stack Software Engineer with a proven track record of deliverin
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manuhe-wolde)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuye03@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrNobody806)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/manuhe_wolde)
+
+
 
 ---
 
 ## 📈 GitHub Activity
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=MrNobody806&label=Profile%20Views&color=0&icon=6&pretty=true)
-
-*Last Updated: December 2023*
+![Visitor Count](https://visitcount.itsvg.in/api?id=ManuheWolde&label=Profile%20Views&color=0&icon=6&pretty=true)
